@@ -14,7 +14,6 @@ We use Claude API to transform natural language requirements into optimized sear
   - [Getting Started](#getting-started)
     - [Features](#features)
     - [Installation](#installation)
-    - [Usage](#usage)
     - [Migration](#migration)
     - [Contributing](#contributing)
     - [License](#license)
@@ -53,10 +52,6 @@ We use Claude API to transform natural language requirements into optimized sear
     ```bash
     uvicorn app.main:app --reload
     ```
-
-### Usage
-
-Test the application by making requests to endpoints. Detailed API documentation can be found [here](link-to-api-docs).
 
 ### Migration
 
