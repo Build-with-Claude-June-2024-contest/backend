@@ -1,4 +1,4 @@
-# Nemo AI Backend
+# Backend
 
 ## About
 
@@ -8,7 +8,7 @@ We use Claude API to transform natural language requirements into optimized sear
 
 ## Table of Contents
 
-- [Nemo AI Backend](#nemo-ai-backend)
+- [Backend](#backend)
   - [About](#about)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
